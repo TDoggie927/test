@@ -1,7 +1,7 @@
 {
   "name": "FML Coin",
   "symbol": "FML",
-  "uri": "",  
+  "uri": "https://github.com/TDoggie927/test/blob/main/metadata.json",  
   "seller_fee_basis_points": 500,
   "creators": [
     {
