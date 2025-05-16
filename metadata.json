@@ -1,0 +1,19 @@
+{
+  "name": "FML Coin",
+  "symbol": "FML",
+  "uri": "",  
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "BAmuhi6WjvM7s6fYwY48fJaL5AsNxz5aRp8J4YLaGEeX",  
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
+
+
+
+
+
+
